@@ -13,11 +13,11 @@ body {
   width: 80%;
   margin: auto;
   overflow: hidden;
-  background-color: red;
 }
 h1 {
   text-align: center;
   margin-top: 20px;
+  color: red;
 }
 p {
   margin: 15px 0;
